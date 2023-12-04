@@ -1,6 +1,5 @@
 # Github
 
-#Read Me
 EcoTracker, is an app designed to help renters track and manage their utility consumption efficiently. It focuses on gas, electricity, and water usage, providing valuable insights and recommendations. The main goals include achieving financial savings through efficient utility management, promoting sustainable and environmentally friendly living, and giving users a sense of control over household expenses.
 
 EcoTracker is useful for several reasons. It helps users achieve financial savings by efficiently managing utility consumption. It promotes sustainable living practices, contributing to environmental conservation. Additionally, it empowers users by providing insights and recommendations, giving them a sense of control over their household expenses.
